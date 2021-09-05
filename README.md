@@ -15,4 +15,3 @@ Our solution focused on points 1 and 2 mainly as we trained our various models t
 
 ![Saving Elephants](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Computer%20Vision%20(YOLOv3)/Saving%20Elephants%20with%20YOLOv3.png)
 
-The notebook is quite long due to all the coding, but can be accessed by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Computer%20Vision%20(YOLOv3)/Saving%20Elephants%20with%20YOLOv3.ipynb). If you want a better picture of the work, the report is a better option and can be accessed by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Computer%20Vision%20(YOLOv3)/Saving%20Elephants%20with%20YOLOv3%20Report.pdf).
